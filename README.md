@@ -7,4 +7,4 @@
  4. PATCH
  5. DELETE
 
-image(![Quora Project Preview](<Screenshot 2023-09-23 214526.png>))
+![Quora Project Preview](<Screenshot 2023-09-23 214526.png>)
