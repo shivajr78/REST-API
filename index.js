@@ -55,7 +55,6 @@ app.post("/posts", (req, res) => { // it accept the data from Form
 app.get("/posts/:id", (req, res) => {
     let { id } = req.params; // accessing the id from route
     let post = posts.find((p) => id === p.id); // using id find the data in array
-    console.log(id)
     res.render("show.ejs",{post});
 })
 
